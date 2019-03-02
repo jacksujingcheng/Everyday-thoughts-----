@@ -14,4 +14,11 @@ i=[1,2,3,4,5]
 love=[u for u in i]
 //love will be [1,2,3,4,5]
 ```
+
+## Testing others
+
+- ~~I love u~~
+- ~~I hate u~~
+- No
+
   
