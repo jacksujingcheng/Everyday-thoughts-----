@@ -21,6 +21,6 @@ love=[u for u in i]
 - ~~I hate u~~
 - No
 
-[link to google](http://www.google.com)<br>
+[link to google](http://www.google.com)<br><br>
 ishihara satomi<br><br>
 ![](https://www.famousbirthdays.com/faces/ishihara-satomi-image.jpg)<br>
