@@ -22,5 +22,5 @@ love=[u for u in i]
 - No
 
 [link to google](http://www.google.com)<br>
-ishihara satomi
-![](https://www.famousbirthdays.com/faces/ishihara-satomi-image.jpg)
+ishihara satomi<br><br>
+![](https://www.famousbirthdays.com/faces/ishihara-satomi-image.jpg)<br>
