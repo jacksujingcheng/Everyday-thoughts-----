@@ -21,4 +21,4 @@ love=[u for u in i]
 - ~~I hate u~~
 - No
 
-[link to google](google.com)
+[link to google](http://www.google.com)
