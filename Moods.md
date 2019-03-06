@@ -34,5 +34,27 @@
 
 
 
+2019.3.5
+---------
+
+今天心情还不错，历史pnp的随便考的拿了90分，英语midterm portfolio拿了96. 一天都挺忙碌的，但想到这周事情好多就又很难受，要面试，写RIP project，写c++ project4......
+
+**Duck Typing example** : we only consider the method from a data structure or a class.
+
+```python
+def add(a,b):
+	return a+b
+
+add(1,2)#return 3
+add("Love", "you")#return "Loveyou"
+add([1,2],[3])#return [1,2,3]
+```
+
+
+
+
+
+
+
 
 
