@@ -76,6 +76,10 @@ add([1,2],[3])#return [1,2,3]
 --------
 今天把历史essay写完了，rip project和companion essay也写了一些，晚上把numpy入门了，今天还算充实，就是心情一般。
 
+2019.3.10
+-----
+今天还算充实，正在学python的panda库。
+
 
 
 
