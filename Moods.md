@@ -88,9 +88,9 @@ add([1,2],[3])#return [1,2,3]
 -----
 这周有点累，基本把panda，numpy和pyplot学完了，把RIP project和polisci 61a的take home final写了大半，程序作业也写完了。把下周final week坚持过去就可以休息一段时间了。
 
-
-
-
+2019.3.17
+-----
+今天把写作所有作业基本写完了，polisci61a的final也修改完了，感觉自己效率好低，哎。但至少是在做了，玩的少了，就还蛮欣慰。
 
 
 
